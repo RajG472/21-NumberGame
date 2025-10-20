@@ -1,2 +1,2 @@
-# 21NumberGame
+# 21-NumberGame
 
