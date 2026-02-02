@@ -2,11 +2,7 @@ import random
 
 # Function to display the game's instructions
 def display_instructions():
-    print("Welcome to the 21 Game!")
-    print("The goal of the game is to add numbers up to 21 in increments of 1, 2, or 3")
-    print("If you're the person to reach exactly 21, you LOSE!")
-    print("You can only pick numbers between 1 and 3.")
-    print("Type 'exit' to quit the game at any time.")
+    print("Welcome to the 21 Game!\nType 'exit' to quit the game at any time.\nYou can only pick numbers between 1 and 3.\nIf you're the person to reach exactly 21, you LOSE!\nThe goal of the game is to add numbers up to 21 in increments of 1, 2, or 3.\n")
 
 # Function to get user input
 def get_user_choice():
